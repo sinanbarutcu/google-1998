@@ -4,7 +4,7 @@
 
 `https://github.com/sinanbarutcu/google-1998.git`
 
-![kitaplik](images/readme.png)
+![kitaplik](google-1998.png)
 
 # Usage
 
